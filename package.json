@@ -29,18 +29,18 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.2",
     "helmet": "^4.6.0",
     "link": "^0.1.5"
   },
   "devDependencies": {
-    "autoprefixer": "^10.3.1",
-    "nodemon": "^2.0.12",
-    "postcss": "^8.3.6",
-    "tailwindcss": "^2.2.7"
+    "autoprefixer": "^10.4.2",
+    "nodemon": "^2.0.15",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^2.2.19"
   },
   "engines": {
     "node": "16.x",
-    "npm":"8.x"
+    "npm": "8.x"
   }
 }
