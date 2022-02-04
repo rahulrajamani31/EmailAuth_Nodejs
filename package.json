@@ -38,5 +38,9 @@
     "nodemon": "^2.0.12",
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.7"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm":"8.x"
   }
 }
