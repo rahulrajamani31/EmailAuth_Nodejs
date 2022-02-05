@@ -73,7 +73,7 @@ router.get("/test/dart", async (req, res) => {
 })
 
 router.get('/', async (req, res) => {
-    res.send("Hello Welcome to the homepage");
+    res.send("Hello Welcome to the page");
 })
 
 
